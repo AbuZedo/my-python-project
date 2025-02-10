@@ -38,7 +38,7 @@ except:
 cokie  = secrets.token_hex(8)*2
 zzk=0
 
-tok=input("NzkyNzY1NTMyNzA4Nzk4NTE1.GVELsH.95MPjj9R4k1wyG6p6y_JNwycDlcuHh7QG-a3Fo")
+tok=input("7754926229:AAFOzqsc9f057aAuFnNMakNbXMjxy1urtUM")
 	
 print('\n')
 print('روح للبوت دز start/')
